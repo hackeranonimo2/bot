@@ -1,4 +1,4 @@
-$token = '1827445667:AAE3BMRd_X5I8XOF2wSlAHIBSKRZ6gUvXV8';
+$token = '1830920565:AAFh6WZNzUwlu6jRne33Hh9EHynZW5LguTw';
 function bot($method,$datas=[]){
   global $token;
       $url = "https://api.telegram.org/bot".$token."/".$method;
